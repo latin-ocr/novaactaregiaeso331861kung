@@ -1,0 +1,52 @@
+67
+
+a) de l'e'tain aa cuivre:
+
+ 
+
+s = 1350 par la serie (11),
+f Ξ 1,245 . . . 4111),
+Alloyetme = 1,2475—;
+b) du cuivre ὰ l'e'cain:
+f' = 1,063 par la serie (Ι),
+
+f‘ Ξ 1,058 . . . (lv),
+Moyemze = l,0605.
+Au moyen de ces valeurs de f et f', combinees avec celles de μ
+
+et μ’, on peut calculer par la sormule (13) la valeur de y0; et en operam
+(16 cette mamere, nous aurons
+
+par μ et f ‘Yo Ξ 0:235
+par μ’ et f' —- ‘y0 ε 0:250
+Moyenne = 0242.
+La moyenne de ces valeurs, substituee (lans la formule (11), donne ensuite
+lc = <468 k‘,
+tandis qu'au moyen des valeurs de μ et μ’ on a
+lc = 246 k'.
+
+On voit ainsi, 1⁰ que la valeur numerique de ‘Yo est la meme dans
+les deux cas, mais qu'elle est de signe positis ou ne‘gatff, selon que la
+chaleur se propage dans l'une ou dans l'autre direction; '2⁰ qu'il y a un
+accord aussi complet, qu'on pent le desirer, entre les valeurs relatives (leket
+de lc', soit qu'elles se trouvent calculees au moyen de la valeur de γυ, ou
+qu'elles aient ete obtenues directement par les quantites μ et μ’.
+
+En combinant les observations faites sur les barres de cuivre rouge
+et de plomb, on trouvera, quand la ohaleur se propage
+
+a) du plomb au cuivre:
+
+f = 1,3915, par la serie (IV),
+et 70 Ξ — 0‚325;
+b) du cuivre au plomb:
+f = 1,0499 , par la serie (Vl),
+f = 1,0535‚ . . . (V),
+
+ 
+
+ 
+
+Moyenne = 1‚0512
+et γυ = -1- 0,316.
+

@@ -1,0 +1,43 @@
+56
+
+sere observation: C6te' dela barre 26:33⁰} distance des trous 100m.m;
+tempe'rature de l'air 17⁰,15.
+
+21⁰0 observation: Cate‘de la barre 219,“‹fi¹¹¹·; distance des trous 45“”““>ς
+tempe'rature de l'air 18⁰‚04.
+
+Alarbre blanc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dans la premiere experience, on voit que les exces des tempera-
+tures de la barre de marbre n'ont aucun rapport avec une serie geometri-
+que. tandis que dans la seconde les quotients sont sensiblement constants.
+
+J'ai dejz't demontre qu'on peut reproduire tous les nombres de la
+premiere experience, en supposant qu'ily a deux especes de chaleur, dont
+
+ehacune decroit en proportion geometriun mais avec vitesse differente, et
+donnant les quotients
+
+q = 14‚785 et q, = ma,
+
+En transformant les deux constants q et q„ pour les rendre applica-
+bles ὰ la seconde experience, on obtient
+
+Ι ,ἓ 26‚45 ὲ l w,
+‘'g-q—{l-Q-6'og‘q τ
+<rou resulte
+q' = 152
+ct, de meme,
+qs = 1,023;
+
+ainsi le quotient 1,52 est, comme on le voit, presque identique avec celui
+que donnent les exces des temperatures dans la seconde experience.
+

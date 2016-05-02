@@ -1,0 +1,54 @@
+69
+
+tandis que les observations directes donnent
+lc' = 1‚S3 k„
+
+On voit clairement par les nombres ci-dessus‚ que l‘accord entre les
+deux valeurs (le yo est loin d'etre grand, et on pourrait meme supposer
+quc la derniere valeur n'est pas exacte. Mais observons que, pour mettre
+les deux nombres en pal-faite harmonia il suffit seulement d'augmenter la
+temperature observee 14⁰,9 de quelques dixiemes de degre.
+
+g, 7.
+
+Il me reste enfin a prouver l'exactitude du resultat annoncee ci-des-
+sus, 3 savoir, que le quotient des deux temperatures, determinees 3 deux
+points equidistants de la surface de contact (les deux barres reunies, est
+certainement plus grand, quand la chaleur se propage du faible conducteur
+ἐι celui d'une meilleure conductibilite que dans le cas oppose.
+
+En effet, il faut seulement pour cela trouver l'expression analytique
+qui represente ces deux faits.
+
+Si 13 temperature a ete determinee a deux points equidistants de la
+surface de contact, on aura, pour chacun de ces points, les valeurs de μ,
+ν et y, qui leur correspondent: et par la la signification de ces quantites
+sera la meme qu'auparavant‚ mais, si on les accentue, elles se rapporteront
+au plus faible conducteur. La relation entre les quantites μ, ν et y, quand
+la chaleur se propage d'un bon conducteur 3 celui d'un plus faible pouvoir,
+est donnee par l'equation
+
+ 
+
+ 
+
+, 1 -l- 7¹²²
+62, = μ μ 1 ΔΓ 7 ‚
+mais, au cas contraire, par
+Ι 1 -- yv'2
+622 = μ μ 1 - ν
+Ces deux valeurs doivent etre telles que
+62¹ < 622,
+
+parce que les quantites y, ν et ν’ sont toujours plus petites que l'unite.
+
+Ainsi‚ 13 recherche precedente prouve par la verification experimen-
+tale donnee ci-dessus, que les formules
+
+zc=u'
+et
+du ‘du'
+&72:²7⁶ π
+
+91,
+

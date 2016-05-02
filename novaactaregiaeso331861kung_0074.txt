@@ -1,0 +1,45 @@
+58
+
+La plupart des observations, faites jusqu'ici sur la conductibilite de
+la chaleur, ne sont pas d'une exactitude suffisante et possedent meme toutes
+le defaut capital de ne pas donner les quantites Ιι et k, separees l'une de
+l'autre. C'est justement pour cela qu'on ne saurait arriver, au moyen de la
+discussion de ces observations, a bien preciser si le pouvoir conducteur a
+nieme subi des variations. C'est specialement ce que l'on peut dire des
+observations de M. Wiedeman, qui, bien qu⁷ayant ete' faites! entre certaines
+limites de temperature, sont justement pour ce motis superieures a toutes
+celles qu'on a presentees sur ce point jusqu'a present.
+
+g. 1.
+
+Un point essentiel dans la them-ie de la chaleur qu'on ne peut encore
+regal-der comme suffisainnient celan-ci, est celui du passage dela chaleur (l'un
+metal a un autre. Pour representer la distribution de la chalem-a la surface
+‹le contact de deux metaux heterogenes, ayant la meme section, mais des
+pouvoirs conducteurs et de rayonnement qui sont diffiirents, Poisson a donne ¹)
+
+les form ules suivantes:
+
+k {ij} -}- q(2c—2t') = 0,
+
+(ἴαν
+k, J} —q (tc—ul) = Ο;
+
+ls et ls, representant les pouvoirs conducteurs des deux barres, u et α’ les
+temperatures (l'un point, dont la distance d'origine est exprimee par x.
+Ainsi, ce nouveau constant q, introduit par Poisson, pour representer
+le rayonnement inoleculaire entre deux metaux differents, est le 4zi<³¹¹¹e qu’il
+faut admettre dans la theorie de la chalem, les trois autres etant sim-
+plement ceux qui representent la chaleur spe'ciflque (lu corps, le pouvoir
+conducteur et celui de rayonnement. La necessit& d'introduire ce constant
+(lans la theorie de'pend, au fond7 de ce qu'a la surface de contact, la tempera-
+ture ll est notainment plus grande ou plus petite que celle representee par
+ul. Et en efl'et, M. Despretz, dans une experience sur des barres de cuivre
+rouge et d'etain‚ pressees l'une contre saun-e, nous dit 2) qu'il se trouve une
+difference de temperature, egale a 1⁰,47 C„ au passage de la chalem· (lu
+cuivre a l'etain. Sauf cette experience isolee, les recherches experimen-
+tales dans cette partie de la physique se reduisent a celles accomplies par
+
+1) Theoric de la chalem, p. 254.
+ζ’) Annales de Poggendorff. Τ. XLVI, p. 484.
+
